@@ -11,10 +11,12 @@
     "react": "latest",
     "react-dom": "latest"
   },
-  "devDependencies": {
-    "tailwindcss": "^3.4.0",
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.0",
-    "typescript": "^5.0.0"
-  }
+ "devDependencies": {
+  "tailwindcss": "^3.4.0",
+  "autoprefixer": "^10.4.0",
+  "postcss": "^8.4.0",
+  "typescript": "^5.0.0",
+  "@types/react": "^18.2.40",
+  "@types/node": "^20.11.24"
+}
 }
